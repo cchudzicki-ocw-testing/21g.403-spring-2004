@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course, meeting times,
+  required texts, a recommended text, goals for the course, vocabulary, compositions,
+  language laboratories, tests, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
